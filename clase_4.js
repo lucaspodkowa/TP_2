@@ -14,7 +14,7 @@ function saludar() {
 
 //saludar(); //llamamos a la funcion 
 
-
+//codigo comentado
 // -------------------------------------------------------------------------------------------
 
 
